@@ -12,18 +12,13 @@
 ###实习经历
 -京东x事业部（2018.01-2018.09）自动驾驶算法工程师
 -商汤科技（2018.12-2019.08）见习研究员
-## Welcome to GitHub Pages
+## Welcome to My HomePage
 
-You can use the [editor on GitHub](https://github.com/xiaoyang666/chunyabng.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Personal information
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
